@@ -27,7 +27,6 @@ const styles = StyleSheet.create({
     newsDesc: {
         height: height * 0.3,
         width: width,
-        backgroundColor: "yellow"
     },
     newsList: {
         height: height * 0.7,

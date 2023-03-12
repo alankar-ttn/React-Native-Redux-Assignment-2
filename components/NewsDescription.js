@@ -26,12 +26,14 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 22,
     fontWeight: 'bold',
+    color: "#555"
   },
   desc: {
     fontSize: 16,
+    color: "#666"
   },
   video: {
-    height: height * 0.3 * 0.5,
+    height: height * 0.3 * 0.8,
     width: width - 24,
     backgroundColor: 'rgba(0,0,0,0.5)',
   },
